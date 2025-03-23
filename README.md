@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%20there,%20I’m%20Anesca&color=gradient&fontSize=50&height=100"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%20there,%20I’m%20Anesca&color=gradient&fontSize=50&height=150"/></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Video+Game+Enthusiast;Movie+Buff&font=Fira%20Code&center=true&width=380&height=50"/>
