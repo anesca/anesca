@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%20there,%20I’m%20Anesca&color=gradient&fontSize=50&height=150"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%20there,%20I’m%20Anesca&color=gradient&fontSize=40&height=220"/></p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/anescadames/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,7 +17,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="git" />
 </p>
 
-___
+<br />
 
 ### ⭐ About Me
 <p align="center"><i>"I tell computers to do stuff, sometimes they listen."</i></p>
@@ -29,6 +29,7 @@ ___
 - 🎓 Passionate about helping others to learn code
 - 🤔 Love finding creative ways to bring an idea to life
 - ⚡ Lifelong learner who’s always curious about new tools, frameworks, and trends in tech
+<br />
 
 ___
 
